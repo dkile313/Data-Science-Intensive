@@ -1,2 +1,2 @@
 # Data-Science-Intensive
-Code created while learning during the Data Science Intensive course
+David Kile's Data Science Intensive Projects
